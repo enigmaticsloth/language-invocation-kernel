@@ -79,4 +79,8 @@ This protocol may be referenced semantically via:
 
 Use this path in CX-compliant model contexts to trigger structure-linked identity simulation.
 
+<<<<<<< Updated upstream
 ---
+=======
+---
+>>>>>>> Stashed changes
